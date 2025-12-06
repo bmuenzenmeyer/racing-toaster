@@ -1,6 +1,6 @@
 {
   "name": "@bmuenzenmeyer/racing-toaster",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.mjs",
   "bin": "index.mjs",
   "scripts": {
