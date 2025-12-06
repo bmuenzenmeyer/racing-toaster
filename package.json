@@ -1,0 +1,17 @@
+{
+  "name": "@bmuenzenmeyer/racing-toaster",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+  },
+  "files": [
+    "index.mjs"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "description": "Testing publication - and how toast works.",
+  "publishConfig": {
+    "access": "public"
+  }
+}
