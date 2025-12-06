@@ -1,0 +1,3 @@
+```
+npx @bmuenzenmeyer/racing-toaster
+```
